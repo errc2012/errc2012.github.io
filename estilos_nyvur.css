@@ -164,15 +164,15 @@ footer {
 .tabla, .mundi { float: left; }
 
 .tabla img { 
-	width: 675px;
-	margin-top: 30px;
-	margin-left: 110px;
+	width: 700px;
+	margin-top: 45px;
+	margin-left: 65px;
 }
 
 .mundi img {
-	width: 200px;
-	margin-top: 60px;
-	margin-left: 150px;
+	width: 210px;
+	margin-top: 90px;
+	margin-left: 135px;
 }
 
 .mundi-img {
@@ -180,13 +180,15 @@ footer {
 }
 
 .reloj-img {
-	width: 285px !important;
+	width: 380px !important;
+	margin-left: 5em !important;
+	margin-top: 150px !important;
 }
 
 .comp-img {
-	width: 322px !important;
+	width: 400px !important;
 	margin-left: 4em !important;
-	margin-top: 9em !important;
+	margin-top: 200px !important;
 }
 
 .asig-container { text-align: center; }
@@ -207,12 +209,12 @@ footer {
 .serv-container div {
 	display: inline;
 	text-align: center;
-	margin: 20px 3%;
+	margin: 20px 1%;
 }
 
 .serv-container div img {
-	width: 230px;
-	margin-top: 50px;
+	width: 270px;
+	margin-top: 70px;
 }
 
 .tutorias img {
@@ -239,4 +241,17 @@ footer {
 	color: white;
 	font-size: 9px;
 	margin-top: 6px;
+}
+
+.contactenos-container { text-align: center; }
+
+.contactenos-container div {
+	display: inline;
+	text-align: center;
+	margin: 20px 3%;
+}
+
+.contactenos-container div img {
+	width: 300px;
+	margin-top: 60px;
 }

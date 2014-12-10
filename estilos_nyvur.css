@@ -243,15 +243,20 @@ footer {
 	margin-top: 6px;
 }
 
-.contactenos-container { text-align: center; }
+.cont-container { text-align: center; }
 
-.contactenos-container div {
+.cont-container div {
 	display: inline;
 	text-align: center;
 	margin: 20px 3%;
+	
 }
 
-.contactenos-container div img {
-	width: 300px;
-	margin-top: 60px;
+.cont-container div img {
+	width: 280px;
+	margin-top: 20px;
+}
+
+.contactenos img {
+	width: 405px !important;
 }
